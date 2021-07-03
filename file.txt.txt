@@ -1,3 +1,2 @@
-
-asdhjhhasg
-
+node -v
+npm -v
